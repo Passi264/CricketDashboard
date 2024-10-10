@@ -28,7 +28,7 @@ This project demonstrates a Power BI report designed to help sports analysts sel
 ## Full Report
 
 You can download and view the full detailed report in PDF format:
-[Download PDF Report](./cricfresh.pdf)
+[Download PDF Report](./cricrefresh.pdf)
 
 ---
 
