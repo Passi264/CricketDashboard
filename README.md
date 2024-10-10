@@ -32,13 +32,6 @@ You can download and view the full detailed report in PDF format:
 
 ---
 
-### How to Use
-1. Open the Power BI dashboard.
-2. Select players based on different criteria (batting, bowling, fielding).
-3. Use filters to narrow down players based on their performance.
-
----
-
 ## Tech Stack
 
 - Power BI
